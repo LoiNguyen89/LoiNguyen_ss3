@@ -1,0 +1,21 @@
+/* selector {
+            key: value; property - Thuộc tính
+            key2: value2
+            ...
+            keyN: valueN
+        } */
+         .class01{
+            color: aliceblue;
+            background-color:rgb(2, 123, 255);
+            text-align: center;
+         }
+         .style01{
+            table,
+            th,
+            td {
+              border: 0px;
+              border-collapse: collapse;
+            }
+            background-color:rgb(2, 123, 255) ;
+          }
+            
